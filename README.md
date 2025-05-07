@@ -181,7 +181,6 @@ You can edit these at the top of each script as needed.
 
 **Add paths:**
 
-`matlab
 addpath(genpath('path_to_project/codigos_sparse'));
 addpath(genpath('path_to_project/DICTOL'));
 addpath(genpath('path_to_project/DFDL'));
@@ -190,7 +189,7 @@ addpath(genpath('path_to_project/ClassifierToolbox-master'));
 addpath(genpath('path_to_project/sparseLDA_v2'));
 savepath;
   
-## Test:
+**Test:**
 help FDDL_wrapper
 
 
